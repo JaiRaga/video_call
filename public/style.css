@@ -63,3 +63,21 @@ video {
   min-width: 80px;
   cursor: pointer;
 }
+
+.main__controls__button:hover {
+  background-color: rgb(128, 10, 239);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+}
+
+.main__controls__button i {
+  font-size: 24px;
+}
+
+.leave_meeting {
+  color: rgba(240, 66, 66, 0.979);
+}
+
+.leave_meeting:hover {
+  color: rgb(242, 223, 223);
+}
