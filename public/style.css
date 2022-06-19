@@ -39,7 +39,7 @@ video {
 
 .main__controls {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   background-color: rgb(53, 54, 58);
   color: white;
   padding: 5px;
